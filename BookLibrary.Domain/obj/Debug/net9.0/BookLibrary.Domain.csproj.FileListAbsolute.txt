@@ -1,0 +1,12 @@
+/Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Domain/bin/Debug/net9.0/BookLibrary.Domain.deps.json
+/Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Domain/bin/Debug/net9.0/BookLibrary.Domain.dll
+/Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Domain/bin/Debug/net9.0/BookLibrary.Domain.pdb
+/Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Domain/obj/Debug/net9.0/BookLibrary.Domain.csproj.AssemblyReference.cache
+/Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Domain/obj/Debug/net9.0/BookLibrary.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Domain/obj/Debug/net9.0/BookLibrary.Domain.AssemblyInfoInputs.cache
+/Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Domain/obj/Debug/net9.0/BookLibrary.Domain.AssemblyInfo.cs
+/Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Domain/obj/Debug/net9.0/BookLibrary.Domain.csproj.CoreCompileInputs.cache
+/Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Domain/obj/Debug/net9.0/BookLibrary.Domain.dll
+/Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Domain/obj/Debug/net9.0/refint/BookLibrary.Domain.dll
+/Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Domain/obj/Debug/net9.0/BookLibrary.Domain.pdb
+/Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Domain/obj/Debug/net9.0/ref/BookLibrary.Domain.dll

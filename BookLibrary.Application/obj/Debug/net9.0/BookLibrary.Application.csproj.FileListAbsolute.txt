@@ -1,0 +1,17 @@
+/Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Application/obj/Debug/net9.0/BookLibrary.Application.csproj.AssemblyReference.cache
+/Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Application/obj/Debug/net9.0/BookLibrary.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Application/obj/Debug/net9.0/BookLibrary.Application.AssemblyInfoInputs.cache
+/Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Application/obj/Debug/net9.0/BookLibrary.Application.AssemblyInfo.cs
+/Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Application/obj/Debug/net9.0/BookLibrary.Application.csproj.CoreCompileInputs.cache
+/Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Application/bin/Debug/net9.0/BookLibrary.Application.deps.json
+/Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Application/bin/Debug/net9.0/BookLibrary.Application.dll
+/Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Application/bin/Debug/net9.0/BookLibrary.Application.pdb
+/Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Application/bin/Debug/net9.0/BookLibrary.Domain.dll
+/Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Application/bin/Debug/net9.0/BookLibrary.Infrastructure.dll
+/Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Application/bin/Debug/net9.0/BookLibrary.Domain.pdb
+/Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Application/bin/Debug/net9.0/BookLibrary.Infrastructure.pdb
+/Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Application/obj/Debug/net9.0/BookLibr.7A31D052.Up2Date
+/Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Application/obj/Debug/net9.0/BookLibrary.Application.dll
+/Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Application/obj/Debug/net9.0/refint/BookLibrary.Application.dll
+/Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Application/obj/Debug/net9.0/BookLibrary.Application.pdb
+/Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Application/obj/Debug/net9.0/ref/BookLibrary.Application.dll
