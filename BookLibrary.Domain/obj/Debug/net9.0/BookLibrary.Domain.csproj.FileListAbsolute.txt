@@ -10,3 +10,4 @@
 /Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Domain/obj/Debug/net9.0/refint/BookLibrary.Domain.dll
 /Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Domain/obj/Debug/net9.0/BookLibrary.Domain.pdb
 /Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Domain/obj/Debug/net9.0/ref/BookLibrary.Domain.dll
+/Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Domain/obj/Debug/net9.0/BookLibrary.Domain.sourcelink.json

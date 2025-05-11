@@ -1,9 +1,17 @@
-namespace BookLibrary.Domain.Entities;
+using System.Collections.Generic;
+using BookLibrary.Domain.Entities;
 
-public class Book
+namespace BookLibrary.Domain.Entities
 {
-    public int Id { get; set; }                     // Первичный ключ
-    public string Title { get; set; } = string.Empty;   // Название книги
-    public string Author { get; set; } = string.Empty;  // Автор
-    public int Year { get; set; }                   // Год выпуска
+    public class Book
+    {
+        public int Id { get; set; }
+        public string Title { get; set; } = string.Empty;
+        public int Year { get; set; }
+
+        public int AuthorId { get; set; }
+        public Author Author { get; set; } = null!;
+
+        public ICollection<Edition> Editions { get; set; } = new List<Edition>();
+    }
 }

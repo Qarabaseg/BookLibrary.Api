@@ -13,3 +13,6 @@
 /Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Infrastructure/obj/Debug/net9.0/refint/BookLibrary.Infrastructure.dll
 /Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Infrastructure/obj/Debug/net9.0/BookLibrary.Infrastructure.pdb
 /Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Infrastructure/obj/Debug/net9.0/ref/BookLibrary.Infrastructure.dll
+/Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Infrastructure/obj/Debug/net9.0/BookLibrary.Infrastructure.sourcelink.json
+/Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Infrastructure/bin/Debug/net9.0/BookLibrary.Infrastructure.runtimeconfig.json
+/Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Infrastructure/obj/Debug/net9.0/BookLibrary.Infrastructure.genruntimeconfig.cache

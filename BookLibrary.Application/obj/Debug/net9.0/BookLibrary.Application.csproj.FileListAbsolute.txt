@@ -15,3 +15,4 @@
 /Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Application/obj/Debug/net9.0/refint/BookLibrary.Application.dll
 /Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Application/obj/Debug/net9.0/BookLibrary.Application.pdb
 /Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Application/obj/Debug/net9.0/ref/BookLibrary.Application.dll
+/Users/dmytroshovgeniuk/RiderProjects/BookLibrary.Api/BookLibrary.Application/obj/Debug/net9.0/BookLibrary.Application.sourcelink.json
